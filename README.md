@@ -1,7 +1,3 @@
-### Hi there 👋
-### If you want to see something more than codes. [Click here](https://ardakaya.z1.web.core.windows.net/)🔮
-### I know the link above has died. Will fix it later...
-
 <!--
 **Arda13/Arda13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
